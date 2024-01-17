@@ -311,19 +311,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>ষষ্ঠ শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১২০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৬৫</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫৫</span>
                                     </div>
@@ -335,19 +335,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>সপ্তম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১১৫</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৬০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫৫</span>
                                     </div>
@@ -359,19 +359,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>অষ্টম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১০৯</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫৯</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
@@ -383,19 +383,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>নবম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১০০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
@@ -407,19 +407,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>দশম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">৯৮</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫১</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
+                                    <img src="https://cdn.codersys.com/edufin/tem2/img/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৪৭</span>
                                     </div>
@@ -444,7 +444,7 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
 						@foreach($Video as $video)
 						<div class="videoItem">
                             <a class="thumb" href="{{route('SingleVideo', $video->id)}}">
-                                <img src="https://dhsbirganj.edu.bd/wp-content/uploads/2023/08/maxresddddefault.jpg" alt="{{$video->title}}">
+                                <img src="/uploads//images/slider-img-2-1705507212.jpg" alt="{{$video->title}}">
                                 <span class="icon"><i class="fa fa-play"></i></span>
                             </a>
                             <h4 class="heading"><a href="{{route('SingleVideo', $video->id)}}">{{$video->title}}</a></h4>
