@@ -84,7 +84,7 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                 <div class="aboutContent">
                     <div class="aboutContentInner">
                         <h4 class="subTitle">আমাদের সম্পর্কে</h4>
-                        <h3 class="title">দেবীপুর উচ্চ বিদ্যালয়ে স্বাগতম</h3>
+                        <h3 class="title">{{$Setting->site_name}} এ স্বাগতম</h3>
 						{!!html_entity_decode($block1->description)!!}
 						
 						<div class="aboutSecBtn"><a class="pitwBtn" href="/about-us/">আরও পড়ুন</a></div>
@@ -311,19 +311,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>ষষ্ঠ শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১২০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon2.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৬৫</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon3.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫৫</span>
                                     </div>
@@ -335,19 +335,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>সপ্তম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১১৫</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon2.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৬০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon3.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫৫</span>
                                     </div>
@@ -359,19 +359,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>অষ্টম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১০৯</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon2.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫৯</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon3.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
@@ -383,19 +383,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>নবম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">১০০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon2.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon3.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৫০</span>
                                     </div>
@@ -407,19 +407,19 @@ $TCount=App\Models\Teacher::where('category','teacher')->count();
                             <h3>দশম শ্রেণি</h3>
                             <ul>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon.png">
                                     <div class="std">
                                         <span class="hd">মোট শিক্ষার্থী</span><span class="st">৯৮</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon2.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon2.png">
                                     <div class="std">
                                         <span class="hd">ছেলে শিক্ষার্থী</span><span class="st">৫১</span>
                                     </div>
                                 </li>
                                 <li>
-                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/student-icon3.png">
+                                    <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/codersys-assets/codersys-images/student-icon3.png">
                                     <div class="std">
                                         <span class="hd">মেয়ে শিক্ষার্থী</span><span class="st">৪৭</span>
                                     </div>

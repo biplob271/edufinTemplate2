@@ -7,7 +7,7 @@
 
 
 
-<div class="primeitworld_page">
+<div class="codersys_page">
     <div class="pageHeader">
         <div class="container">
             <h1 class="heading">বিস্তারিত খবর</h1>

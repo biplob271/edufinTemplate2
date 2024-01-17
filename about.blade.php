@@ -4,7 +4,7 @@
 @extends('frontend.layouts.main')
 @section('page-content')
 
-<div class="primeitworldPage">
+<div class="codersysPage">
     <div class="pageHeader">
         <div class="container">
             <h1 class="heading">আমাদের সম্পর্কে</h1>

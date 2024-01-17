@@ -7,7 +7,7 @@
     echo "no data found";
 @endif
 
-<div class="primeitworld_page">
+<div class="codersys_page">
     <div class="pageHeader">
         <div class="container narrow">
             <h1 class="heading">শিক্ষকের প্রোফাইল</h1>

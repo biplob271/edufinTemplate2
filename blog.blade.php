@@ -8,7 +8,7 @@
 
 
 
-<div class="primeitworld_page">
+<div class="codersys_page">
     <div class="pageHeader">
         <div class="container">
             <h1 class="heading">সাম্প্রতিক খবর</h1>

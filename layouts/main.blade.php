@@ -10,7 +10,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="shortcut icon" href="https://dhsbirganj.edu.bd/wp-content/uploads/2023/09/Debipur-High-School-Logo.png" type="image/png">  
+    <link rel="shortcut icon" href="/Debipur-High-School-Logo.png" type="image/png">  
 
     <meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
 
@@ -31,7 +31,7 @@
 		padding: 0 !important;
 	}
 </style>
-<link rel='stylesheet' id='wp-block-library-css' href='https://dhsbirganj.edu.bd/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-block-library-css' href='https://cdn.codersys.com/edufin/tem2/css/style.min.css?ver=6.4.2' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -43,17 +43,17 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='primeitworld-bootstrap-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/bootstrap.min.css?ver=5.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='animate-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/animate.min.css?ver=5.0.1' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-magnific-popup-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/magnific-popup.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-owl.carousel-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/owl.carousel.min.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-fontawesome-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/fontawesome.min.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-slick-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/slick.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-slick-theme-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/slick-theme.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='primeitworld-style-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-css/primeitworld-style.css?ver=1.0.0' type='text/css' media='all' />
-<link rel='stylesheet' id='main-style-css' href='https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/style.css?ver=6.4.2' type='text/css' media='all' />
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
+<link rel='stylesheet' id='codersys-bootstrap-css' href='https://cdn.codersys.com/edufin/tem2/css/bootstrap.min.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet'  id='animate-css' href='https://cdn.codersys.com/edufin/tem2/css/animate.min.css?ver=5.0.1' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-magnific-popup-css' href='https://cdn.codersys.com/edufin/tem2/css/magnific-popup.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-owl.carousel-css' href='https://cdn.codersys.com/edufin/tem2/css/owl.carousel.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-fontawesome-css' href='https://cdn.codersys.com/edufin/tem2/css/fontawesome.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-slick-css' href='https://cdn.codersys.com/edufin/tem2/css/slick.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-slick-theme-css' href='https://cdn.codersys.com/edufin/tem2/css/slick-theme.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='codersys-style-css' href='https://cdn.codersys.com/edufin/tem2/css/codersys-style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='main-style-css'  href='https://cdn.codersys.com/edufin/tem2/css/style.css?ver=6.4.2' type='text/css' media='all' />
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
 
 	<style type="text/css">
 		.ajax-calendar{
@@ -144,7 +144,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css" />
 </head>
 
-<body class="home page-template page-template-primeitworld-templates page-template-pitw-home page-template-primeitworld-templatespitw-home-php page page-id-6 wp-embed-responsive" >
+<body class="home page-template page-template-codersys-templates page-template-pitw-home page-template-codersys-templatespitw-home-php page page-id-6 wp-embed-responsive" >
 <div class="PrimeItWorld_site_wrap">
 <header class="PrimeItWorld__header">
     <div class="headerNoticeBox">
@@ -192,7 +192,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                             <h4>{{$Setting->site_name}}</h4>
                         </div>
                         <div class="govtLogo">
-                            <img src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-images/govtlogo.png" alt="">
+                            <img src="https://cdn.codersys.com/edufin/tem2/img/govtlogo.png" alt="">
                         </div>
                     </div>                    
                 </div>
@@ -361,7 +361,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <div class="footerBottom">
         <div class="container">
             <div class="footerBottomInner">
-                <p class="copyright"><i class="fa fa-copyright"></i> ২০২4 <a href="https://dhsbirganj.edu.bd/">{{$Setting->site_name}}</a> সর্বস্বত্ব সংরক্ষিত</p>                
+                <p class="copyright"><i class="fa fa-copyright"></i> ২০২4 <a href="/">{{$Setting->site_name}}</a> সর্বস্বত্ব সংরক্ষিত</p>                
                 <p class="developer">
                     <span>Developed By:</span>
                     <a href="https://codersys.com/"><img src="https://codersys.com/assets/img/logo.jpg" alt="CoderSys"></a>
@@ -382,16 +382,16 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 				<filter id="no_aspblur"></filter>
 			</svg>
 		</div>
-		<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/jquery-3.6.0.min.js?ver=1.0.0" id="primeitworld-jquery-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/jquery-migrate-3.4.0.min.js?ver=1.0.0" id="primeitworld-jquery-migrate-3.4.0.min-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/bootstrap.min.js?ver=5.0.1" id="primeitworld-bootstrap-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/owl.carousel.min.js?ver=1.0.0" id="primeitworld-owl.carousel-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/jquery.magnific-popup.min.js?ver=1.0.0" id="primeitworld-jquery.magnific-popup-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/slick.min.js?ver=1.0.0" id="primeitworld-slick-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/jquery.bootstrap.newsbox.js?ver=1.0.0" id="primeitworld-jquery-newsbox-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/counterup.min.js?ver=1.0.0" id="primeitworld-counterup-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/waypoints.min.js?ver=1.0.0" id="primeitworld-waypoints-js"></script>
-<script type="text/javascript" src="https://dhsbirganj.edu.bd/wp-content/themes/primeitworldschool/primeitworld-assets/primeitworld-js/primeitworld-js.js?ver=1.0.0" id="primeitworld-js-js"></script>
+		<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery-3.6.0.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery-migrate-3.4.0.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/bootstrap.min.js?ver=5.0.1"></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/owl.carousel.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery.magnific-popup.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/slick.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/jquery.bootstrap.newsbox.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/counterup.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/waypoints.min.js?ver=1.0.0" ></script>
+<script type="text/javascript" src="https://cdn.codersys.com/edufin/tem2/js/codersys-js.js?ver=1.0.0"></script>
 <style></style>
 </body>
 </html>

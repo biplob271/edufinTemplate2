@@ -6,7 +6,7 @@
 
 
 
-<div class="primeitworld_page">
+<div class="codersys_page">
     <div class="pageHeader">
         <div class="container narrow">
             <h1 class="heading">{{$data->title}}</h1>
