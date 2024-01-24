@@ -27,39 +27,22 @@
             <div class="relatedPosts">
                 <h3 class="widgetTitle">অন্যান্য শিক্ষার্থী</h3>
                 <div class="adminListWrap">
-                                            <div class="adminListItem_col">
+                @php 
+                     $Students=App\Http\Controllers\Admin\StudentController::classWiseStudent($data->class)  
+                @endphp 
+                     @foreach($Students as $student)
+                        <div class="adminListItem_col">
                             <div class="adminListItem">
                                 <div class="image">
-                                                                            <img src="/uploads/{{$data->image}}">
+                                                                            <img src="/uploads/{{$student->image}}">
                                                                     </div>                    
-                                <h3 class="name"> মো: আব্দুর রহিম </h3>                                <h4 class="desg">001</h4>                                <a href="{{$data->id}}" class="link">বিস্তারিত</a>
+                                <h3 class="name">{{$student->name}} </h3>                                <h4 class="desg">{{$student->roll}}</h4>                                <a href="{{$data->id}}" class="link">বিস্তারিত</a>
                             </div>
                         </div>
-                                                <div class="adminListItem_col">
-                            <div class="adminListItem">
-                                <div class="image">
-                                                                            <img src="/uploads/{{$data->image}}">
-                                                                    </div>                    
-                                <h3 class="name"> আফরোজা আক্তার</h3>                                <h4 class="desg">002</h4>                                <a href="{{$data->id}}" class="link">বিস্তারিত</a>
-                            </div>
-                        </div>
-                                                <div class="adminListItem_col">
-                            <div class="adminListItem">
-                                <div class="image">
-                                                                            <img src="/uploads/{{$data->image}}">
-                                                                    </div>                    
-                                <h3 class="name"> মো: সানাউল্লাহ </h3>                                <h4 class="desg">003</h4>                                <a href="{{$data->id}}" class="link">বিস্তারিত</a>
-                            </div>
-                        </div>
-                                                <div class="adminListItem_col">
-                            <div class="adminListItem">
-                                <div class="image">
-                                                                            <img src="/uploads/{{$data->image}}">
-                                                                    </div>                    
-                                <h3 class="name"> রবিন আহমেদ </h3>                                <h4 class="desg">004</h4>                                <a href="{{$data->id}}" class="link">বিস্তারিত</a>
-                            </div>
-                        </div>
-                                        </div>
+                    @endforeach
+
+
+                </div>
             </div>
         </div>
     </div>

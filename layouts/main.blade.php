@@ -173,7 +173,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-6 d-none d-md-block">
                     <ul class="headerSocial">
-                        <li class="sclIcon"><a href="" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a></li><li class="sclIcon"><a href="" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li><li class="sclIcon"><a href="" title="Insatragram" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>                        <li class="apply_button"><a href="/admission">Apply Now</a></li>
+                        <li class="sclIcon"><a href="" title="Facebook" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-f"></i></a></li><li class="sclIcon"><a href="" title="Twitter" target="_blank" rel="noopener noreferrer"><i class="fab fa-twitter"></i></a></li><li class="sclIcon"><a href="" title="Insatragram" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a></li>                    <li class="apply_button"><a href="/login">Login</a></li>     <li class="apply_button"><a href="/admission">Apply Now</a></li> 
                     </ul>
                 </div>
             </div>
